@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="![image](https://github.com/f4rma/f4rma/assets/145153493/132da835-636d-4f6e-b59b-cb92ab1090ec)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/f4rma/f4rma/assets/145153493/2cb35510-7472-4267-a3ea-05f57d796a07)
 ">
 
 <h3 align="left">Languages and Tools:</h3>
