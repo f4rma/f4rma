@@ -1,4 +1,4 @@
-<h3 align="left">🧰 Tech Stack & Development Tools</h3>
+<h3 align="left">Tech Stack & Development Tools</h3>
 
 <p align="left">
   <!-- C -->
